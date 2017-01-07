@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Percentage</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="percentFunctions">
+        <item>What is P% of X</item>
+        <item>Y is what % of X</item>
+    </string-array>
+</resources>
